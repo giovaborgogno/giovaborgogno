@@ -13,6 +13,7 @@ Hello, I'm Giovanni, a Backend Developer specializing in blockchain technology. 
 
 - [**SIWE Authentication - Django**](https://pypi.org/project/siwe-auth-django/) - Explore the optimal method for backend authentication using Ethereum standards!
 
+<!--
 ## Work Experience 🚀
 
 ### Full Stack Developer - Scalar (Current)
@@ -26,6 +27,7 @@ Hello, I'm Giovanni, a Backend Developer specializing in blockchain technology. 
 - Leading backend development and technological implementations for clients.
 - Managing Linux server deployments and optimizing performance.
 - Utilizing React Next.js & Python Django for full-stack solutions with a strong backend focus.
+-->
 
 ## Let's Connect 🌐
 
