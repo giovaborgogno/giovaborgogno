@@ -5,9 +5,9 @@ Hello, I'm Giovanni, a Backend Developer specializing in blockchain technology. 
 ## Skills 💻
 
 - **Blockchain:** Solidity, web3, ether.js, hardhat
-- **Backend Development:** Python (Django), Go (Gingonic), Typescript
+- **Backend Development:** Python (Django, FastAPI), Go (Gingonic), Typescript/Javascript
 - **Databases:** MySQL,PostgreSQL, MongoDB
-- **DevOps & Tools:** Docker, Nginx, Linux Servers, Load Balancers, Memcached, RabbitMQ, Apache Solr
+- **DevOps & Tools:** AWS, Docker, Nginx, Load Balancers, Memcached, RabbitMQ, Apache Solr
 
 ## PyPi Projects 🐍
 
@@ -33,6 +33,7 @@ Hello, I'm Giovanni, a Backend Developer specializing in blockchain technology. 
 
 I'm passionate about backend development and blockchain technology. Connect with me on [LinkedIn](https://www.linkedin.com/in/giovaborgogno/) to discuss backend projects, blockchain applications, or any tech-related collaboration. Let's turn ideas into powerful solutions!
 
+<!--
 ## Support My Work 🌟
 
 If you appreciate backend development and blockchain expertise, consider supporting my work:
@@ -40,7 +41,7 @@ If you appreciate backend development and blockchain expertise, consider support
 [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/yourusername)
 
 Thank you for visiting my profile, and let's build the future of technology together! 😊
-
+-->
 
 <!--
 **giovaborgogno/giovaborgogno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
