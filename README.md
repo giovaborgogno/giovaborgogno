@@ -1,6 +1,6 @@
 # Hello, I'm Giovanni 👋 Backend & Blockchain Developer 
 
-Hello, I'm Giovanni, a Backend Developer specializing in blockchain technology. I'm currently in my 4th year of Systems Engineering, and I have a strong passion for building robust backend systems and decentralized applications using blockchain technologies like Solidity, web3, ether.js, and hardhat.
+Hello, I'm Giovanni, a Backend Developer and blockchain enthusiast. I'm currently in my 4th year of Systems Engineering, and I have a strong passion for building robust backend systems and decentralized applications using blockchain technologies like Solidity, web3, ether.js, and hardhat.
 
 ## Skills 💻
 
